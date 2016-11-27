@@ -15,3 +15,9 @@ C:\Users\asus\Desktop\Utkarsh-Shronit-Yatham-Sourabh-kaushal-Siddhartha-Kille\So
 C:\Users\asus\Desktop\Utkarsh-Shronit-Yatham-Sourabh-kaushal-Siddhartha-Kille\Source Code\software\obj\Debug\software.csprojResolveAssemblyReference.cache
 C:\Users\asus\Desktop\Utkarsh-Shronit-Yatham-Sourabh-kaushal-Siddhartha-Kille\Source Code\software\obj\Debug\software.dll
 C:\Users\asus\Desktop\Utkarsh-Shronit-Yatham-Sourabh-kaushal-Siddhartha-Kille\Source Code\software\obj\Debug\software.pdb
+C:\Users\asus\Desktop\abhilash-test\Utkarsh-Shronit-Yatham-Sourabh-kaushal-Siddhartha-Kille\Source Code\software\bin\software.dll.config
+C:\Users\asus\Desktop\abhilash-test\Utkarsh-Shronit-Yatham-Sourabh-kaushal-Siddhartha-Kille\Source Code\software\bin\software.dll
+C:\Users\asus\Desktop\abhilash-test\Utkarsh-Shronit-Yatham-Sourabh-kaushal-Siddhartha-Kille\Source Code\software\bin\software.pdb
+C:\Users\asus\Desktop\abhilash-test\Utkarsh-Shronit-Yatham-Sourabh-kaushal-Siddhartha-Kille\Source Code\software\obj\Debug\software.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\abhilash-test\Utkarsh-Shronit-Yatham-Sourabh-kaushal-Siddhartha-Kille\Source Code\software\obj\Debug\software.dll
+C:\Users\asus\Desktop\abhilash-test\Utkarsh-Shronit-Yatham-Sourabh-kaushal-Siddhartha-Kille\Source Code\software\obj\Debug\software.pdb
